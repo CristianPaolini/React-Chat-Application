@@ -15,7 +15,7 @@ const MyMessage = ({ message }) => {
          backgroundColor: '#3B2A50' }}>
             {message.text}
         </div>
-    )
-}
+    );
+};
 
 export default MyMessage;
